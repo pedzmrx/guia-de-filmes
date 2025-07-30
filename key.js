@@ -1,1 +1,1 @@
- key = "Sua chave aqui" // Chamada para a API
+ key = "72407a60" // Chamada para a API
