@@ -43,4 +43,7 @@ Use sua chave de API com segurança, use apenas em modelo prático ou fins pesso
 
 - Na página de Guia de Filmes digite seu filme ou série (em inglês) para reprodução de detalhes de produção, avaliação, elenco e diretores. :D
 
+## Exemplo de Uso
+<img width="691" height="637" alt="model" src="https://github.com/user-attachments/assets/8d090b8a-d116-4c3d-8a18-1582391feaec" />
+
 
